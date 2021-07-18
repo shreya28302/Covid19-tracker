@@ -1,10 +1,10 @@
 # Covid19-tracker
-This is a covid 19 tracker web application which displays the statistics of covid cases all over the world. 
+This is a covid 19 tracker web application which displays the statistics of covid cases all over the world. <br />
 API used: https://covid19.mathdro.id/api
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![Covid19-tracker](https://github.com/shreya28302/Covid19-tracker/blob/master/screenshot/Screenshot%202021-07-18%20223851.png)
 
 
 # Getting Started
