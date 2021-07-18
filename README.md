@@ -9,7 +9,7 @@ API used: https://covid19.mathdro.id/api
 
 # Getting Started
 * clone this repo 
-  	* git clone https://github.com/pranathi1923/Covid19-tracker
+  	* git clone https://github.com/shreya28302/Covid19-tracker
   	* cd Covid19-tracker
 * Install dependencies
   	* npm install
