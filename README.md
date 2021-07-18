@@ -19,4 +19,4 @@ API used: https://covid19.mathdro.id/api
 # Tech Stack 
 * React 
 * Charts.JS 
-* Material UI.
+* Material UI
