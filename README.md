@@ -4,7 +4,7 @@ API used: https://covid19.mathdro.id/api
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
-![Covid19-tracker](https://github.com/shreya28302/Covid19-tracker/blob/master/screenshot/Screenshot%202021-07-18%20223851.png)
+![Covid19-tracker](https://github.com/shreya28302/Covid19-tracker/blob/master/screenshot/Screenshot%202021-07-18%20225229.png)
 
 
 # Getting Started
